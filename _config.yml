@@ -24,7 +24,7 @@ logo: "/assets/logo.png"
 
 # Build settings
 markdown: kramdown
-theme: airspace-jekyll.gemspec
+remote_theme: airspace-jekyll
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
