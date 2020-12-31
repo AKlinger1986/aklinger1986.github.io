@@ -1,6 +1,6 @@
 
 #xclude:
- - "/vendor/"
+  - "/vendor/"
   - "Gemfile"
   - "Gemfile.lock"
   - "README.md"
